@@ -1,0 +1,30 @@
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Adapters.Persistence\bin\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.deps.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Adapters.Persistence\bin\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Adapters.Persistence\bin\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Adapters.Persistence\bin\Debug\net7.0\DesafioAutoglass.Core.Domain.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Adapters.Persistence\bin\Debug\net7.0\DesafioAutoglass.Core.Domain.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.csproj.CopyComplete
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\refint\DesafioAutoglass.Adapters.Persistence.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\ref\DesafioAutoglass.Adapters.Persistence.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Adapters.Persistence\bin\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.deps.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Adapters.Persistence\bin\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Adapters.Persistence\bin\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Adapters.Persistence\bin\Debug\net7.0\DesafioAutoglass.Core.Domain.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Adapters.Persistence\bin\Debug\net7.0\DesafioAutoglass.Core.Domain.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.csproj.CopyComplete
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\refint\DesafioAutoglass.Adapters.Persistence.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Adapters.Persistence\obj\Debug\net7.0\ref\DesafioAutoglass.Adapters.Persistence.dll

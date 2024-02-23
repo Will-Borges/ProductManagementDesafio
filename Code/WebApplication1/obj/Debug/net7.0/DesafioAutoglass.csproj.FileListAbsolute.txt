@@ -1,0 +1,102 @@
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.exe
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.deps.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.runtimeconfig.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\Dapper.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\Dapper.FluentMap.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\Dapper.FluentMap.Dommel.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\Dommel.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.Core.Application.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.Core.Domain.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.Core.Application.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.Core.Domain.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.DesafioAutoglass.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.DesafioAutoglass.props
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DesafioAutoglass.props
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DesafioAutoglass.props
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\DesafioAutoglass.styles.css
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.csproj.CopyComplete
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\refint\DesafioAutoglass.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\WebApplication1\obj\Debug\net7.0\ref\DesafioAutoglass.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.exe
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.deps.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.runtimeconfig.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\Dapper.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\Dapper.FluentMap.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\Dapper.FluentMap.Dommel.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\Dommel.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.Core.Application.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.Core.Domain.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.Adapters.Persistence.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.Core.Application.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\bin\Debug\net7.0\DesafioAutoglass.Core.Domain.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.DesafioAutoglass.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.DesafioAutoglass.props
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DesafioAutoglass.props
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DesafioAutoglass.props
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\DesafioAutoglass.styles.css
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.csproj.CopyComplete
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\refint\DesafioAutoglass.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\DesafioAutoglass.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\WebApplication1\obj\Debug\net7.0\ref\DesafioAutoglass.dll

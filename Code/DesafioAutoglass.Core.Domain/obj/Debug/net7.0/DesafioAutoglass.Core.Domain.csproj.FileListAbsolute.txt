@@ -1,0 +1,24 @@
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Domain\bin\Debug\net7.0\DesafioAutoglass.Core.Domain.deps.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Domain\bin\Debug\net7.0\DesafioAutoglass.Core.Domain.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Domain\bin\Debug\net7.0\DesafioAutoglass.Core.Domain.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\DesafioAutoglass.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\DesafioAutoglass.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\DesafioAutoglass.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\DesafioAutoglass.Core.Domain.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\DesafioAutoglass.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\DesafioAutoglass.Core.Domain.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\refint\DesafioAutoglass.Core.Domain.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\DesafioAutoglass.Core.Domain.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\ref\DesafioAutoglass.Core.Domain.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Core.Domain\bin\Debug\net7.0\DesafioAutoglass.Core.Domain.deps.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Core.Domain\bin\Debug\net7.0\DesafioAutoglass.Core.Domain.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Core.Domain\bin\Debug\net7.0\DesafioAutoglass.Core.Domain.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\DesafioAutoglass.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\DesafioAutoglass.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\DesafioAutoglass.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\DesafioAutoglass.Core.Domain.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\DesafioAutoglass.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\DesafioAutoglass.Core.Domain.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\refint\DesafioAutoglass.Core.Domain.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\DesafioAutoglass.Core.Domain.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\DesafioAutoglass\Code\DesafioAutoglass.Core.Domain\obj\Debug\net7.0\ref\DesafioAutoglass.Core.Domain.dll

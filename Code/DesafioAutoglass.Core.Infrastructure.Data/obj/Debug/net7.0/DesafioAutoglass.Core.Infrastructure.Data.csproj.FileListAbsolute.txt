@@ -1,0 +1,15 @@
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Infrastructure.Data\bin\Debug\net7.0\DesafioAutoglass.Core.Infrastructure.Data.deps.json
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Infrastructure.Data\bin\Debug\net7.0\DesafioAutoglass.Core.Infrastructure.Data.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Infrastructure.Data\bin\Debug\net7.0\DesafioAutoglass.Core.Infrastructure.Data.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Infrastructure.Data\bin\Debug\net7.0\DesafioAutoglass.Core.Domain.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Infrastructure.Data\bin\Debug\net7.0\DesafioAutoglass.Core.Domain.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Infrastructure.Data\obj\Debug\net7.0\DesafioAutoglass.Core.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Infrastructure.Data\obj\Debug\net7.0\DesafioAutoglass.Core.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Infrastructure.Data\obj\Debug\net7.0\DesafioAutoglass.Core.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Infrastructure.Data\obj\Debug\net7.0\DesafioAutoglass.Core.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Infrastructure.Data\obj\Debug\net7.0\DesafioAutoglass.Core.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Infrastructure.Data\obj\Debug\net7.0\DesafioAutoglass.Core.Infrastructure.Data.csproj.CopyComplete
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Infrastructure.Data\obj\Debug\net7.0\DesafioAutoglass.Core.Infrastructure.Data.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Infrastructure.Data\obj\Debug\net7.0\refint\DesafioAutoglass.Core.Infrastructure.Data.dll
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Infrastructure.Data\obj\Debug\net7.0\DesafioAutoglass.Core.Infrastructure.Data.pdb
+C:\Users\willi\OneDrive\Documentos\AutoGlass\Nova pasta\DesafioAutoglass\DesafioAutoglass.Core.Infrastructure.Data\obj\Debug\net7.0\ref\DesafioAutoglass.Core.Infrastructure.Data.dll
